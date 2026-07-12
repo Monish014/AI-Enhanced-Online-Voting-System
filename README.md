@@ -103,9 +103,9 @@ The **AI-Enhanced Online Voting System** is a full-stack web application designe
 
 ---
 
-## 📊 Analytics Dashboard
+## 📊 Election Analytics
 
-![Analytics Dashboard](screenshots/analytics.png)
+![Election Analytics](screenshots/analytics.png)
 
 ---
 
