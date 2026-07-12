@@ -65,7 +65,53 @@ The **AI-Enhanced Online Voting System** is a full-stack web application designe
 - MongoDB Atlas
 
 ---
+# 📸 Project Screenshots
 
+## 🔐 Login Page
+
+![Login Page](screenshots/login.png)
+
+---
+
+## 📝 Registration Page
+
+![Registration Page](screenshots/register.png)
+
+---
+
+## 👤 Voter Dashboard
+
+![Voter Dashboard](screenshots/voter-dashboard.png)
+
+---
+
+## 🤖 Face Verification
+
+![Face Verification](screenshots/face-verification.png)
+
+---
+
+## 🗳️ Voting Booth
+
+![Voting Booth](screenshots/voting-booth.png)
+
+---
+
+## 🛡️ Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+---
+
+## 📊 Analytics Dashboard
+
+![Analytics Dashboard](screenshots/analytics.png)
+
+---
+
+## 🚨 Fraud Detection Dashboard
+
+![Fraud Detection Dashboard](screenshots/fraud-dashboard.png)
 # ✨ Features
 
 ## 👤 Voter
@@ -254,55 +300,7 @@ http://localhost:5173
 
 ---
 
-# 📸 Screenshots
 
-## Login Page
-
-![Login](screenshots/login.png)
-
----
-
-## Registration
-
-![Registration](screenshots/register.png)
-
----
-
-## Voter Dashboard
-
-![Voter Dashboard](screenshots/voter-dashboard.png)
-
----
-
-## Face Verification
-
-![Face Verification](screenshots/face-verification.png)
-
----
-
-## Voting Booth
-
-![Voting Booth](screenshots/voting-booth.png)
-
----
-
-## Admin Dashboard
-
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
----
-
-## Election Analytics
-
-![Analytics](screenshots/analytics.png)
-
----
-
-## Fraud Detection Dashboard
-
-![Fraud Detection](screenshots/fraud-dashboard.png)
-
----
 
 # 🎯 Future Enhancements
 
