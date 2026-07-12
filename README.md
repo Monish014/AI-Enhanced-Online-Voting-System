@@ -69,7 +69,7 @@ The **AI-Enhanced Online Voting System** is a full-stack web application designe
 
 ## 🔐 Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](sceenshots/login.png)
 
 ---
 
