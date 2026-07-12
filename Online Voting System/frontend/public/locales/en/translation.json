@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "dashboard":    "Dashboard",
+    "elections":    "Elections",
+    "fraudAlerts":  "Fraud Alerts",
+    "results":      "Results",
+    "auditLogs":    "Audit Logs",
+    "voters":       "Voters",
+    "verifyVote":   "Verify Vote",
+    "login":        "Sign In",
+    "register":     "Register",
+    "logout":       "Sign Out"
+  },
+  "landing": {
+    "hero": {
+      "title":    "Democracy in the Digital Age",
+      "subtitle": "Cast your vote securely from anywhere.",
+      "cta":      "Register to Vote",
+      "verify":   "Verify My Vote"
+    },
+    "features": {
+      "title": "Built for Trust"
+    }
+  },
+  "auth": {
+    "login":    "Sign In",
+    "register": "Create Account",
+    "email":    "Email address",
+    "password": "Password",
+    "name":     "Full Name",
+    "phone":    "Phone Number",
+    "otp":      "One-Time Password"
+  },
+  "voter": {
+    "dashboard":       "My Dashboard",
+    "castVote":        "Cast Vote",
+    "voteNow":         "Vote Now",
+    "alreadyVoted":    "You have voted",
+    "faceVerify":      "Identity Verification",
+    "confirmation":    "Vote Confirmed"
+  },
+  "admin": {
+    "dashboard":   "Admin Dashboard",
+    "manage":      "Manage",
+    "resolve":     "Resolve",
+    "export":      "Export",
+    "totalVoters": "Total Voters",
+    "turnout":     "Turnout",
+    "activeElections": "Active Elections",
+    "openAlerts":  "Open Alerts"
+  },
+  "common": {
+    "loading":   "Loading...",
+    "save":      "Save",
+    "cancel":    "Cancel",
+    "delete":    "Delete",
+    "confirm":   "Confirm",
+    "back":      "Back",
+    "next":      "Next",
+    "submit":    "Submit",
+    "refresh":   "Refresh",
+    "search":    "Search",
+    "filter":    "Filter",
+    "noData":    "No data available",
+    "error":     "An error occurred"
+  }
+}

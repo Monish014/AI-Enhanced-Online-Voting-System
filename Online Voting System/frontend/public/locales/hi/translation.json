@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "dashboard":    "डैशबोर्ड",
+    "elections":    "चुनाव",
+    "fraudAlerts":  "धोखाधड़ी अलर्ट",
+    "results":      "परिणाम",
+    "auditLogs":    "ऑडिट लॉग",
+    "voters":       "मतदाता",
+    "verifyVote":   "वोट सत्यापित करें",
+    "login":        "साइन इन",
+    "register":     "पंजीकरण",
+    "logout":       "साइन आउट"
+  },
+  "landing": {
+    "hero": {
+      "title":    "डिजिटल युग में लोकतंत्र",
+      "subtitle": "कहीं से भी सुरक्षित रूप से अपना वोट डालें।",
+      "cta":      "मतदाता पंजीकरण करें",
+      "verify":   "मेरा वोट सत्यापित करें"
+    },
+    "features": {
+      "title": "विश्वास के लिए बना"
+    }
+  },
+  "auth": {
+    "login":    "साइन इन",
+    "register": "खाता बनाएं",
+    "email":    "ईमेल पता",
+    "password": "पासवर्ड",
+    "name":     "पूरा नाम",
+    "phone":    "फोन नंबर",
+    "otp":      "एकबारगी पासवर्ड"
+  },
+  "voter": {
+    "dashboard":    "मेरा डैशबोर्ड",
+    "castVote":     "वोट डालें",
+    "voteNow":      "अभी वोट करें",
+    "alreadyVoted": "आपने वोट किया है",
+    "faceVerify":   "पहचान सत्यापन",
+    "confirmation": "वोट की पुष्टि"
+  },
+  "admin": {
+    "dashboard":       "एडमिन डैशबोर्ड",
+    "manage":          "प्रबंधन",
+    "resolve":         "हल करें",
+    "export":          "निर्यात",
+    "totalVoters":     "कुल मतदाता",
+    "turnout":         "मतदान प्रतिशत",
+    "activeElections": "सक्रिय चुनाव",
+    "openAlerts":      "खुले अलर्ट"
+  },
+  "common": {
+    "loading":   "लोड हो रहा है...",
+    "save":      "सहेजें",
+    "cancel":    "रद्द करें",
+    "delete":    "हटाएं",
+    "confirm":   "पुष्टि करें",
+    "back":      "वापस",
+    "next":      "अगला",
+    "submit":    "जमा करें",
+    "refresh":   "ताज़ा करें",
+    "search":    "खोजें",
+    "filter":    "फ़िल्टर",
+    "noData":    "कोई डेटा उपलब्ध नहीं",
+    "error":     "एक त्रुटि हुई"
+  }
+}
