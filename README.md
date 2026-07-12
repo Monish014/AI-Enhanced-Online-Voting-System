@@ -75,43 +75,43 @@ The **AI-Enhanced Online Voting System** is a full-stack web application designe
 
 ## 📝 Registration Page
 
-![Registration Page](screenshots/register.png)
+![Registration Page](sceenshots/register.png)
 
 ---
 
 ## 👤 Voter Dashboard
 
-![Voter Dashboard](screenshots/voter-dashboard.png)
+![Voter Dashboard](sceenshots/voter-dashboard.png)
 
 ---
 
 ## 🤖 Face Verification
 
-![Face Verification](screenshots/face-verification.png)
+![Face Verification](sceenshots/face-verification.png)
 
 ---
 
 ## 🗳️ Voting Booth
 
-![Voting Booth](screenshots/voting-booth.png)
+![Voting Booth](sceenshots/voting-booth.png)
 
 ---
 
 ## 🛡️ Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](sceenshots/admin-dashboard.png)
 
 ---
 
 ## 📊 Election Analytics
 
-![Election Analytics](screenshots/analytics.png)
+![Election Analytics](sceenshots/analytics.png)
 
 ---
 
 ## 🚨 Fraud Detection Dashboard
 
-![Fraud Detection Dashboard](screenshots/fraud-dashboard.png)
+![Fraud Detection Dashboard](sceenshots/fraud-dashboard.png)
 # ✨ Features
 
 ## 👤 Voter
